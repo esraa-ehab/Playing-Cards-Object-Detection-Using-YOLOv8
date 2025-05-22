@@ -17,8 +17,8 @@ This project focuses on training a YOLOv8 object detection model to identify dif
 ## Model Training
 - Base model: `yolov8n.pt` (nano version for speed and lightweight deployment)
 - Trained for **30 epochs** on custom dataset using annotated `.yaml` config file.
-- Evaluated with metrics: Precision, Recall, mAP@0.5, mAP@0.5:0.95
-
+- Evaluated with metrics: Achieved high performance with precision of 95.7%, recall of 97.7%, mAP@50 of 98.3%, and mAP@50-95 of 91.4%.
+  
 ## Results
 - Achieved high accuracy on validation data.
 - Visualized predictions using confidence thresholding and bounding box overlays.
