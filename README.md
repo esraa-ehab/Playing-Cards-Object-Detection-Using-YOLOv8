@@ -23,6 +23,6 @@ This project focuses on training a YOLOv8 object detection model to identify dif
 - Achieved high accuracy on validation data.
 - Visualized predictions using confidence thresholding and bounding box overlays.
 
-## 🔍 Inference
+## Inference
 - Performed inference on unseen validation images.
 - Visualized predictions using bounding boxes and class labels.
